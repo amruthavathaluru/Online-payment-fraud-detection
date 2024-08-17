@@ -3,18 +3,6 @@
 
 This project focuses on detecting fraudulent transactions using a Decision Tree Classifier. The dataset used in this project contains transaction details and aims to classify whether a transaction is fraudulent or not.
 
-
-## Installation
-
-### 1. Clone the repository:
-git clone https://github.com/your-username/fraud-detection.git
-
-### 2.Navigate to the project directory:
-cd fraud-detection
-
-### 3. Install the required Python packages:
-pip install -r requirements.txt
-
 # Usage
 ## Data Preparation:
 
